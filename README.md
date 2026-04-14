@@ -1,2 +1,2 @@
 # RTL9201-firmware
-this is a test
+fw ver 9.34.11  Build Date 2024.10.25
